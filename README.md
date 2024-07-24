@@ -1,5 +1,5 @@
 # kdenlive_settings
-kdenlive settings for screen recording 10 FPS, video codec settings so far
+kdenlive settings for screen recording 10 FPS, best video codec settings so far
 
 # Video settings 
 
